@@ -1,5 +1,3 @@
-# support_with_develop
-поддержка с создателем бота
 <!DOCTYPE html>
 <html>
 <head>
